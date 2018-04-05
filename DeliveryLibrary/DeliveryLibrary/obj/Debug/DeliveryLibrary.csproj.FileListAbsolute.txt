@@ -1,0 +1,6 @@
+C:\Users\Пользователь\Documents\GitHub\DeliveryCompanyTask\DeliveryLibrary\DeliveryLibrary\bin\Debug\DeliveryLibrary.dll
+C:\Users\Пользователь\Documents\GitHub\DeliveryCompanyTask\DeliveryLibrary\DeliveryLibrary\bin\Debug\DeliveryLibrary.pdb
+C:\Users\Пользователь\Documents\GitHub\DeliveryCompanyTask\DeliveryLibrary\DeliveryLibrary\obj\Debug\DeliveryLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\GitHub\DeliveryCompanyTask\DeliveryLibrary\DeliveryLibrary\obj\Debug\DeliveryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\GitHub\DeliveryCompanyTask\DeliveryLibrary\DeliveryLibrary\obj\Debug\DeliveryLibrary.dll
+C:\Users\Пользователь\Documents\GitHub\DeliveryCompanyTask\DeliveryLibrary\DeliveryLibrary\obj\Debug\DeliveryLibrary.pdb
